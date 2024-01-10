@@ -1,0 +1,45 @@
+.navbar{
+    background-color: rgb(3, 1, 24);
+}
+ul li{
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+    padding: 30px;
+    font-size: 50px;
+    font-style: oblique;
+}
+#afg{
+    background-color: gray;
+    font-style: oblique;
+    -webkit-text-fill-color: rgb(216, 26, 26);
+    border-radius: 20px;
+    padding: 15pxS;
+width: fit-content;
+}
+#fb{
+    width: 100px;
+    height: 100px;
+}
+#wa{
+    width: 100px;
+    height: 100px;
+}
+#tw{
+    width: 100px;
+    height: 100px;
+}
+#book{
+    width: 50px;
+    height: 50px;
+}
+#app{
+    width: 50px;
+    height: 50px;
+}
+#ter{
+
+    width:50px;
+    height: 50px;
+}
